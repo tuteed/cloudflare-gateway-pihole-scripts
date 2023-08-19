@@ -6,6 +6,8 @@ touch input.csv
 # declare an array of urls
 urls=(
   https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/doh/doh_adblock.txt
+  https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
+  https://raw.githubusercontent.com/nmtrung/FMSF-2.0/master/fmsf_2.0.txt
   https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/doh/doh_gambling.txt
   https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/doh/doh_privacy.txt
   https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
